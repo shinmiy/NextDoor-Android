@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NextDoor</string>
+    <string name="mission_complete_label">Mission Complete</string>
+    <string name="points_label">ポイント %1$,dpt</string>
+</resources>
